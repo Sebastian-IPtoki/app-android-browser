@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Screen Overlay demo"
+rootProject.name = "App Android Browser"

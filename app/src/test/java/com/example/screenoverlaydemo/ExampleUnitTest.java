@@ -1,4 +1,4 @@
-package com.example.screenoverlaydemo;
+package com.example.appandroidbrowser;
 
 import org.junit.Test;
 

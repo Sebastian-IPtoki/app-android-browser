@@ -1,4 +1,4 @@
-package com.example.screenoverlaydemo;
+package com.example.appandroidbrowser;
 
 import android.annotation.SuppressLint;
 import android.app.Service;
